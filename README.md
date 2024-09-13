@@ -37,10 +37,10 @@ YouProject is a university project created with the aim of learning and implemen
 
 1. Clone the repository from the following [GitHub link](https://github.com/AndreaCarzeri/YouProject):
    `git clone https://github.com/AndreaCarzeri/YouProject.git`
-2. Navigate to the project directory: `cd YouProject/front-end`
+2. Navigate to the project directory: `cd YouProject/frontend`
 3. Install dependencies: `npm install`
 4. Start the front end: `npm run dev`
-5. Open another window and go to back-end folder: `cd back-end`
+5. Open another window and go to back-end folder: `cd backend`
 6. Install dependencies: `npm install`
 7. Start back-end: `npm start`
 
