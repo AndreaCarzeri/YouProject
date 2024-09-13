@@ -2,7 +2,7 @@
 
 ## Introduction
 
-YouProject is a university project created with the aim of learning and implementing modern technologies such as **Node.js**, **React**, and **MongoDB**. This project is for educational purposes only, focusing on gaining practical experience in full-stack web application development. The application provides features like user management, project creation and sharing, and news updates, simulating a collaborative environment where users can create and follow projects.
+YouProject is a university project created with the aim of learning and implementing modern technologies such as **Node.js**, **React**, and **MongoDB**. This project is for educational purposes only, focusing on gaining practical experience in full-stack web application development. The application provides features like user management, project creation and sharing, and news updates, simulating a collaborative environment where users can create and follow projects. I've worked in a group, so I didn't do everything.
 
 ## Key Features
 
