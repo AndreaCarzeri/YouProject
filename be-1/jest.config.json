@@ -1,0 +1,5 @@
+{
+    "testEnvironment": "node",
+    "setupFilesAfterEnv": ["./tests/setup.js"],
+    "testRegex": "((\\.|/*.)(test))\\.js?$"
+  }

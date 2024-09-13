@@ -1,0 +1,31 @@
+# Dipendenze node_modules
+node_modules/
+
+# File di log
+*.log
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Directory di build
+dist/
+build/
+
+# File temporanei
+*.tmp
+*.swp
+
+# Dipendenze installate tramite package manager (npm, yarn)
+package-lock.json
+yarn.lock
+
+# Cache
+.nyc_output/
+coverage/
+
+# Strumenti di editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
