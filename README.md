@@ -25,6 +25,12 @@ YouProject is a university project created with the aim of learning and implemen
   - Multer for file uploads
   - JSON Web Tokens (JWT) for authentication
 
+## Showcase
+
+![Profile](images/profile.png)
+![Home](images/home.png)
+![Explore](images/explore.png)
+
 ## Requirements
 
 - **Node.js** version 14+
